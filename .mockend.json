@@ -1,5 +1,24 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
+  "data": [
+    {
+      "id": 1,
+      "sensor": "frequency",
+      "value": 60
+    },
+    {
+      "id": 2,
+      "sensor": "battery",
+      "value": 30
+    },
+    {
+      "id": 3,
+      "sensor": "rateheart",
+      "value": 50
+    },
+    {
+      "sensor": "sensor_s1",
+      "value": 100,
+      "id": 4
+    }
+  ]
 }
