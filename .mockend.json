@@ -2,15 +2,9 @@
 	"Post": {
 		"_": {
 			"items": 20
-		},
-		"title": {
-			"string": {}
-		},
-		"sensors": {
-			"hasMany": "sensor"
 		}
 	},
-	[{
+	"Data": [{
 			"id": 1,
 			"sensor": "frequency",
 			"value": 60
